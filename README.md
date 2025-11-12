@@ -8,7 +8,7 @@ Learn more about our organization at this link:
 
 ## Our Projects
 
-At Buckeye FinTech, we provide a multitude of opportunities to learn about the expanding financial-technology space through collaborative projects that involve concepts from low-level programming to high level financial planning and analysis.
+At Buckeye FinTech, we provide a multitude of opportunities to learn about the expanding financial-technology space through collaborative projects that involve concepts from low-level programming to high-level financial planning and analysis.
 
 ## Buckeye Coin
 
